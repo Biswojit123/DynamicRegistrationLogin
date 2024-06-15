@@ -1,0 +1,15 @@
+
+.bg-custom{
+	background:#2e7d32 !important;
+}
+
+.c-custom{
+	background:#8bc34a;
+}
+
+.body-content{
+	background-image: linear-gradient(to right top, #053729, #205d33, #53822f, #97a520, #ebc112);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
